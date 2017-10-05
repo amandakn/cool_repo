@@ -2,4 +2,6 @@
 
 ## En mindre overskrift
 
-meget mindre tekst
+
++ husk at gemme ved at trykke cmd+s
+for at gemme hver gang man laver en ændring
